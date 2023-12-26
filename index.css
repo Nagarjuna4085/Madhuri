@@ -1,0 +1,11 @@
+h1{
+    font-family:"Robto";
+    font-size:28px;
+    color:orange;
+
+}
+body{
+    background-image:url("./img.jpg");
+    background-repeat: no-repeat, repeat;
+    color:"#ffffff";
+}
